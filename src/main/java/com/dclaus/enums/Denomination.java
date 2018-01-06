@@ -1,4 +1,4 @@
-package com.dclaussen.enums;
+package com.dclaus.enums;
 
 /**
  * Represents a bill of a particular denomination ($20, $10, $5, $2, or $1).

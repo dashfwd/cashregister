@@ -1,6 +1,6 @@
-package com.dclaussen;
+package com.dclaus;
 
-import com.dclaussen.ui.CommandProcessor;
+import com.dclaus.ui.CommandProcessor;
 
 import java.io.BufferedReader;
 import java.io.IOException;

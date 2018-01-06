@@ -1,6 +1,6 @@
-package com.dclaussen.data;
+package com.dclaus.data;
 
-import com.dclaussen.enums.Denomination;
+import com.dclaus.enums.Denomination;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

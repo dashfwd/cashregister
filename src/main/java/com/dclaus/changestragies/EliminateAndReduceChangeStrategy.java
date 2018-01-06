@@ -1,7 +1,7 @@
-package com.dclaussen.changestragies;
+package com.dclaus.changestragies;
 
-import com.dclaussen.data.CashRegisterData;
-import com.dclaussen.enums.Denomination;
+import com.dclaus.data.CashRegisterData;
+import com.dclaus.enums.Denomination;
 
 /**
  * This class implements a strategy for making change.

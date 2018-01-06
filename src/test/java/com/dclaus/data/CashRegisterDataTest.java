@@ -1,10 +1,10 @@
-package com.dclaussen.data;
+package com.dclaus.data;
 
 /**
  * Unit test for CashRegisterData
  */
 
-import com.dclaussen.enums.Denomination;
+import com.dclaus.enums.Denomination;
 import org.junit.Before;
 import org.junit.Test;
 

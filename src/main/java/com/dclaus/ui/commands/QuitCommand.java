@@ -1,4 +1,4 @@
-package com.dclaussen.ui.commands;
+package com.dclaus.ui.commands;
 
 /**
  * Command to exit the program.

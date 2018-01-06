@@ -1,6 +1,6 @@
-package com.dclaussen.ui;
+package com.dclaus.ui;
 
-import com.dclaussen.ui.commands.*;
+import com.dclaus.ui.commands.*;
 
 import java.util.ArrayList;
 import java.util.HashMap;

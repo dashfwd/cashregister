@@ -1,7 +1,7 @@
-package com.dclaussen.ui;
+package com.dclaus.ui;
 
-import com.dclaussen.data.CashRegisterData;
-import com.dclaussen.enums.Denomination;
+import com.dclaus.data.CashRegisterData;
+import com.dclaus.enums.Denomination;
 
 /**
  * Utility class for common code used by the Command classes.  This could also be done

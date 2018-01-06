@@ -22,8 +22,8 @@ $ ./run.sh
 ```
 $ git clone https://github.com/dashfwd/cashregister.git
 $ cd cashregister/src/main/java/
-$ javac -source 1.8 -target 1.8 com/dclaussen/CashRegisterMain.java
-$ java -cp . com.dclaussen.CashRegisterMain
+$ javac -source 1.8 -target 1.8 com/dclaus/CashRegisterMain.java
+$ java -cp . com.dclaus.CashRegisterMain
 ```
 
 ### Example session

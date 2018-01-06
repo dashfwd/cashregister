@@ -1,8 +1,8 @@
-package com.dclaussen.ui.commands;
+package com.dclaus.ui.commands;
 
-import com.dclaussen.data.CashRegisterData;
-import com.dclaussen.services.CashRegisterService;
-import com.dclaussen.ui.UIUtil;
+import com.dclaus.data.CashRegisterData;
+import com.dclaus.services.CashRegisterService;
+import com.dclaus.ui.UIUtil;
 
 /**
  * Take bills in each denomination: #$20 #$10 #$5 #$2 #$1

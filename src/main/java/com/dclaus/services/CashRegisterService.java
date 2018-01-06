@@ -1,9 +1,9 @@
-package com.dclaussen.services;
+package com.dclaus.services;
 
-import com.dclaussen.changestragies.EliminateAndReduceChangeStrategy;
-import com.dclaussen.changestragies.MakeChangeStrategy;
-import com.dclaussen.data.CashRegisterData;
-import com.dclaussen.enums.Denomination;
+import com.dclaus.changestragies.EliminateAndReduceChangeStrategy;
+import com.dclaus.changestragies.MakeChangeStrategy;
+import com.dclaus.data.CashRegisterData;
+import com.dclaus.enums.Denomination;
 
 /**
  * This service represents the cash register, and handles operations on it.

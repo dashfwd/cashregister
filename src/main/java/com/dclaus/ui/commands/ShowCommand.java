@@ -1,7 +1,7 @@
-package com.dclaussen.ui.commands;
+package com.dclaus.ui.commands;
 
-import com.dclaussen.services.CashRegisterService;
-import com.dclaussen.ui.UIUtil;
+import com.dclaus.services.CashRegisterService;
+import com.dclaus.ui.UIUtil;
 
 /**
  * Show current state, including total and each denomination:

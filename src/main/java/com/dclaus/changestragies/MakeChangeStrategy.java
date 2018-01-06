@@ -1,6 +1,6 @@
-package com.dclaussen.changestragies;
+package com.dclaus.changestragies;
 
-import com.dclaussen.data.CashRegisterData;
+import com.dclaus.data.CashRegisterData;
 
 /**
  * Interface for any class that implements a strategy for making change.

@@ -1,12 +1,12 @@
-package com.dclaussen.changestrategies;
+package com.dclaus.changestrategies;
 
 /**
  * Unit test for CashRegisterData
  */
 
-import com.dclaussen.changestragies.EliminateAndReduceChangeStrategy;
-import com.dclaussen.data.CashRegisterData;
-import com.dclaussen.enums.Denomination;
+import com.dclaus.changestragies.EliminateAndReduceChangeStrategy;
+import com.dclaus.data.CashRegisterData;
+import com.dclaus.enums.Denomination;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

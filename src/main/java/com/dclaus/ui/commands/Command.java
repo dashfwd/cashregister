@@ -1,4 +1,4 @@
-package com.dclaussen.ui.commands;
+package com.dclaus.ui.commands;
 
 /**
  * Common interface used for all commands.

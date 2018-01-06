@@ -1,4 +1,4 @@
-package com.dclaussen.ui.commands;
+package com.dclaus.ui.commands;
 
 /**
  * Simple help, shows usage.
